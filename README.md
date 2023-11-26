@@ -7,7 +7,7 @@ In this project, we were asked to build an API for a social network web applicat
 ## Table of Contents
 
 - [URLs Submitted](#urls-submitted)
-- [References or Resources](#references-or-resources)
+- [References/Resources](#references-and-resources)
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
 - [Screenshots](#screenshots)
@@ -19,7 +19,15 @@ In this project, we were asked to build an API for a social network web applicat
 
 * Video Walk-Through:
 
-## References or Resources: 
+## References and Resources: 
+
+I mostly used our Module 18 lessons for this assignment. I also referred to the following resources: 
+
+* express.js: https://www.npmjs.com/package/express
+
+* Mongoose: https://www.npmjs.com/package/mongoose 
+
+* dateFormat.js: https://www.npmjs.com/package/dateformat
 
 ## User Story:
 
