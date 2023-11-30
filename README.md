@@ -17,7 +17,7 @@ In this project, we were asked to build an API for a social network web applicat
 
 * My GitHub Repo URL: https://github.com/lenzlee/social-network-api 
 
-* Video Walk-Through:
+* Video Walk-Through: https://www.awesomescreenshot.com/video/22880868?key=9bd1ef60757e2c4c191af4b27efefeae 
 
 ## References and Resources: 
 
@@ -58,6 +58,14 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ```
 
 ## Screenshots:
+
+* VS Code Screenshot
+
+![VSCode Screenshot | User and Thought Routes](./screenshots/vscode-screenshot.png)
+
+* Postman Screenshot
+
+![VSCode Screenshot | User and Thought Routes](./screenshots/postman-getallusers.png)
 
 ## Contact Me
 
