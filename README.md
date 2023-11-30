@@ -17,7 +17,7 @@ In this project, we were asked to build an API for a social network web applicat
 
 * My GitHub Repo URL: https://github.com/lenzlee/social-network-api 
 
-* Video Walk-Through: https://www.awesomescreenshot.com/video/22880868?key=9bd1ef60757e2c4c191af4b27efefeae 
+* Video Walk-Through: https://www.awesomescreenshot.com/video/22908975?key=f22ef9cad4bb968d48d12b179d912ddd 
 
 ## References and Resources: 
 
